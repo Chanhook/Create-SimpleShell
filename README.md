@@ -85,5 +85,5 @@ Create a shell interface using Java. And verify that given commands such as
 	8 history 100
     ```
 
-6. When any command not exist is inputted
+6. When any command not exist is input
     * `<command>: command not found`
