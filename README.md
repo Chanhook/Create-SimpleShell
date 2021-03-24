@@ -34,6 +34,7 @@ Create a shell interface using Java. And verify that given commands such as
     * Print error message that `The specified path could not be found.`
 
 ### History
+To improve readability, duplicate commands are not added to the recording file.
 * `history`
     * Print all history of commands
 
