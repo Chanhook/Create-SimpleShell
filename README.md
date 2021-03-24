@@ -71,6 +71,19 @@ Create a shell interface using Java. And verify that given commands such as
 
 5. `history <number>` When number exceeds size of history
     * print all of history elements
+    * e.g.,)
+    ```
+	jsh>history 100
+	0 pwd
+	1 ls
+	2 cd Project1
+	3 cd ..
+	4 cd /home
+	5 cd itm
+	6 cd ..
+	7 history
+	8 history 100
+    ```
 
 6. When any command not exist is inputted
     * `<command>: command not found`
