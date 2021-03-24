@@ -1,7 +1,7 @@
 # Create-SimpleShell
-OS Design 2nd HW 
-17102045 Kim Chanhyeok
-Creating a Shell Interface Using Java
+* OS Design 2nd HW 
+* 17102045 Kim Chanhyeok
+* Creating a Shell Interface Using Java
 
 # 1 Project Description
 Create a shell interface using Java. And verify that given commands such as 
